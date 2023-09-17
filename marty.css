@@ -1,0 +1,113 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: bisque;
+}
+body{
+    background-image: url(./backgroung-image.jpg);
+    
+}
+header{
+    text-align: center;
+    font-size: large;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+    
+}
+.main h3{
+    text-align: center;
+    text-overflow: ellipsis; 
+    font-size:x-large;
+    color:black;
+    color: red;
+}
+.desp{
+    text-align:left;
+    font-size: xx-large;
+    color: coral;
+    
+    padding: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.marty{
+    display: inline-block;
+}
+
+.manpreet{
+    width: 50%;
+    float: left;
+    color: pink;
+    
+}
+.photo{
+    width: 300px;
+   
+}
+.link1{
+    background-color: red;
+    padding: 0%;
+    float: right;
+}
+.bhat{
+    width: 45.8%;
+    float: left;
+    color: pink;
+}
+.link2{
+    float: right;
+    position: relative;
+    background-color: red;
+}
+.ashish{
+    width: 40%;
+    float: left;
+    color:pink;
+    
+}
+.link3{
+    float: right;
+    position: relative;
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width :680px) {
+    img{
+        width: 500px;
+        margin-bottom: 10px;
+        display: inline;
+
+    }
+
+}
